@@ -9,13 +9,14 @@ let imagemVida;
 let fonteTelaInicial;
 let somPulo;
 let jogo;
-let fita
+let fita;
 
 let cenaAtual = 'telaInicial';
 let cenas;
 let telaInicial;
 let botaoGerenciador;
-let vida
+let vida;
+
 
 let cenario;
 let somJogo;
